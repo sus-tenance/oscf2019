@@ -1,2 +1,2 @@
-# osdcfn2019
-off-season dravdrain code for 2019
+# oscf2019
+off-season code for 2019
